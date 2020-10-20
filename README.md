@@ -1,6 +1,6 @@
 # Odin
 
-An authorisation and authentication plug in for Mengmom.
+An authorisation and authentication plug in for Mengmom test.
 
 
 ## Build requirements
